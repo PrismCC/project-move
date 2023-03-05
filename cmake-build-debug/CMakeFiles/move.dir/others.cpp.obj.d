@@ -1,6 +1,7 @@
 CMakeFiles/move.dir/others.cpp.obj: \
  F:\code\clion\C++\projects\move\others.cpp \
  F:\code\clion\C++\projects\move\others.h \
+ F:\code\clion\C++\projects\move\head.h \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\iostream \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\x86_64-w64-mingw32\bits\c++config.h \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\x86_64-w64-mingw32\bits\os_defines.h \

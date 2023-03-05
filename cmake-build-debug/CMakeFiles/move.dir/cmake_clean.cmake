@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/move.dir/func.cpp.obj"
-  "CMakeFiles/move.dir/func.cpp.obj.d"
   "CMakeFiles/move.dir/main.cpp.obj"
   "CMakeFiles/move.dir/main.cpp.obj.d"
   "CMakeFiles/move.dir/others.cpp.obj"

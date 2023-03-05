@@ -1,7 +1,7 @@
 CMakeFiles/move.dir/main.cpp.obj: \
  F:\code\clion\C++\projects\move\main.cpp \
  F:\code\clion\C++\projects\move\structs.h \
- F:\code\clion\C++\projects\move\others.h \
+ F:\code\clion\C++\projects\move\head.h \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\iostream \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\x86_64-w64-mingw32\bits\c++config.h \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\x86_64-w64-mingw32\bits\os_defines.h \
@@ -415,4 +415,5 @@ CMakeFiles/move.dir/main.cpp.obj: \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\bits\node_handle.h \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\bits\stl_map.h \
  d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\bits\stl_multimap.h \
- d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\bits\erase_if.h
+ d:\baidunetdiskdownload\programme\mingw64\include\c++\12.2.0\bits\erase_if.h \
+ F:\code\clion\C++\projects\move\others.h

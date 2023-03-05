@@ -1,7 +1,7 @@
 #ifndef MOVE_STRUCTS_H
 #define MOVE_STRUCTS_H
 
-#include "others.h"
+#include "head.h"
 
 struct Player;
 struct Map;

@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "F:/code/clion/C++/projects/move/func.cpp" "CMakeFiles/move.dir/func.cpp.obj" "gcc" "CMakeFiles/move.dir/func.cpp.obj.d"
   "F:/code/clion/C++/projects/move/main.cpp" "CMakeFiles/move.dir/main.cpp.obj" "gcc" "CMakeFiles/move.dir/main.cpp.obj.d"
   "F:/code/clion/C++/projects/move/others.cpp" "CMakeFiles/move.dir/others.cpp.obj" "gcc" "CMakeFiles/move.dir/others.cpp.obj.d"
   "F:/code/clion/C++/projects/move/structs.cpp" "CMakeFiles/move.dir/structs.cpp.obj" "gcc" "CMakeFiles/move.dir/structs.cpp.obj.d"

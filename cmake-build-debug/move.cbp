@@ -84,10 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/code/clion/C++/projects/move/func.cpp">
-			<Option target="move"/>
-		</Unit>
-		<Unit filename="F:/code/clion/C++/projects/move/func.h">
+		<Unit filename="F:/code/clion/C++/projects/move/head.h">
 			<Option target="move"/>
 		</Unit>
 		<Unit filename="F:/code/clion/C++/projects/move/main.cpp">

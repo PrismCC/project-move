@@ -128,30 +128,6 @@ move/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\move.dir\build.make CMakeFiles/move.dir/build
 .PHONY : move/fast
 
-func.obj: func.cpp.obj
-.PHONY : func.obj
-
-# target to build an object file
-func.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\move.dir\build.make CMakeFiles/move.dir/func.cpp.obj
-.PHONY : func.cpp.obj
-
-func.i: func.cpp.i
-.PHONY : func.i
-
-# target to preprocess a source file
-func.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\move.dir\build.make CMakeFiles/move.dir/func.cpp.i
-.PHONY : func.cpp.i
-
-func.s: func.cpp.s
-.PHONY : func.s
-
-# target to generate assembly for a file
-func.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\move.dir\build.make CMakeFiles/move.dir/func.cpp.s
-.PHONY : func.cpp.s
-
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -233,9 +209,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... move
-	@echo ... func.obj
-	@echo ... func.i
-	@echo ... func.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

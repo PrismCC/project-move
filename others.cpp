@@ -5,29 +5,11 @@ extern map<int,cell> table;
 extern map<char,int> trans;
 
 
-
-
-void textColor(int color, int back) // 更改控制台字色
+void textColor(int color, int back) //0黑 1深蓝 2绿 3青 4红 5紫 6黄 7白 8灰 9蓝 10嫩绿 11浅青 12橙 13粉红 14亮黄 15黄白
 {
     HANDLE output = GetStdHandle(STD_OUTPUT_HANDLE);
     SetConsoleTextAttribute(output, color | (back % 16) * 16);
 }
-//0 黑
-//1 深蓝 a
-//2 绿 b
-//3 青 c
-//4 红 d
-//5 紫 e
-//6 黄 f
-//7 白 g
-//8 灰 h
-//9 蓝 i
-//10 嫩绿 j
-//11 浅青 k
-//12 橙 l
-//13 粉红 m
-//14 亮黄 n
-//15 黄白 o
 
 
 void clearScreen()// 清屏

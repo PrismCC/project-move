@@ -1,10 +1,12 @@
 #include "structs.h"
+#include "others.h"
 
-map<int, cell> table;
-map<char, int> trans;
-map<int, Coordinate> jump;
-map<int, Text> text;
-map<int, NewMap> newMap;
+
+inline map<int, cell> table;
+inline map<char, int> trans;
+inline map<int, Coordinate> jump;
+inline map<int, Text> text;
+inline map<int, NewMap> newMap;
 
 
 

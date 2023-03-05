@@ -1,4 +1,5 @@
 #include "structs.h"
+#include "others.h"
 
 extern map<int,cell> table;
 extern map<int,Coordinate> jump;
